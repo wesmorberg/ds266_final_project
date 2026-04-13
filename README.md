@@ -6,4 +6,4 @@
 - *modeling_and_visualization.ipynb*: runs all four model configs and generates Figure 1 in report
 - *linguistic_analysis.ipynb*: TF-IDF feature coefficient check, TTR analysis, phrase frequency analysis in ModernBERT false negative minutes text
 - *central_bank_minutes_labeled.csv*: final labeled dataset used in the report (696 total meeting minutes across FOMC, BoE, and RBA)
-- *DS266 Final Report - Wes Morberg* final report PDF
+- *DS266 Final Report - Wes Morberg:* final report PDF
